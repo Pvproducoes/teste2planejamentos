@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>planejamentos.com</title>
+<style>
+body
+{
+	background-color:#000;
+	color:#fff;
+	font-family:Arial,sans-serif
+}
+
+.login-box
+{
+	width:300px;
+	margin:0 auto;
+	padding:20px;
+	background-color:#fff;
+	border-radius:5px;
+	margin-top:100px
+}
+
+.login-label
+{
+	color:#c39eff
+}
+
+.login-input
+{
+	font-size:12px;
+	color:#c39eff;
+	background-color:#fff;
+	border:1px solid #c39eff;
+	border-radius:3px;
+	padding:5px;
+	width:100%;
+	margin-bottom:10px
+}
+
+.login-button
+{
+	font-size:12px;
+	color:#fff;
+	background-color:#c39eff;
+	border:none;
+	border-radius:3px;
+	padding:8px 15px;
+	cursor:pointer
+}
